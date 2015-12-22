@@ -1,4 +1,4 @@
-# War for two players simulatoor
+# War for two players simulator
 
 In the basic game there are two players and you use a standard 52 card pack. Cards rank as usual from high to low: A K Q J T 9 8 7 6 5 4 3 2. Suits are ignored in this game.
 
